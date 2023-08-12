@@ -16,7 +16,7 @@ const calculatorReducer = createReducer(initialState, (builder) => {
     .addCase(clearInput, (state) => ({ ...state, input: '0', result: '' }))
     .addCase(calculateResult, (state) => {
       try {
-        let evaluated = math.evaluate(`(${state.input})`); // Wrap input in parentheses
+        let evaluated = math.evaluate(state.input.replace(/‑/g, '-'));
         evaluated = parseFloat(evaluated.toFixed(4)); // Limit to 4 decimal places
         return { ...state, result: evaluated.toString(), input: '' };
       } catch (error) {
