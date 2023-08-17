@@ -85,7 +85,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> You can see a Demo [here](https://markdown-previewer-dh9l.onrender.com).
+> You can see a Demo [here](https://react-redux-calculator.onrender.com).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -121,14 +121,13 @@
 - `/src/index.js`: Main entry point of the JavaScript application.
 - `/src/App.js`: Top-level component of the application where components are rendered.
 - `/src/components`: Directory for React components.
-- `/src/components/Editor.js`: Component for the Editor
-- `/src/components/Previewer.js`: Folder for the Previewer.
+- `/src/components/Calculator.js`: Component for the Calculator
 - `/src/redux`: Directory for Redux management.
 - `/src/redux/store.js`: Redux store configuration.
 - `/src/redux/actions`: Folder for Redux actions.
-- `/src/redux/actions/markdownActions.js`: Actions for markdown management.
+- `/src/redux/actions/calculatorActions.js`: Actions for Calculator management.
 - `/src/redux/reducers`: Folder for Redux reducers.
-- `/src/redux/reducers/markdownReducer.js`: Reducer for markdown management.
+- `/src/redux/reducers/calculatorReducer.js`: Reducer for Calculator management.
 - `/public`: Contains the public files and assets of the application.
 - `/public/index.html`: Base HTML file of the application.
 - `/build`: Contains the generated production files.
