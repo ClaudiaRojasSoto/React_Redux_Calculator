@@ -3,7 +3,7 @@
 <div align="center">
   <br/>
 
-  <h1><b>Markdown Previewer</b></h1>
+  <h1><b>React_Redux_Calculator</b></h1>
 
 </div>
 
@@ -28,9 +28,9 @@
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
-# 📖 Markdown_Previewer <a name="about-project"></a>
+# 📖 React_Redux_Calculator <a name="about-project"></a>
 
->The Markdown Previewer is an easy-to-use, interactive tool designed to convert Markdown-formatted text into rendered HTML in real time. Users can type or paste their Markdown code in the editing area, and see a live preview of the rendered content in the preview area.
+>This application is a web calculator developed in JavaScript with the use of React and Redux technologies. It allows you to perform basic mathematical operations easily and efficiently. Inspired by the JavaScript Calculator provided by FreeCodeCamp, this app gives you the chance to put your web development skills to use while creating a working calculator.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -99,7 +99,7 @@
 
 > -Clone this repository to your local machine using:
 
->  git clone https://github.com/ClaudiaRojasSoto/Markdown_Previewer.git
+>  git clone https://github.com/ClaudiaRojasSoto/React_Redux_Calculator.git
 
 > -Navigate to the project folder:
 
@@ -135,7 +135,7 @@
 
 ### Setup
 
-> Clone this repository to your desired folder: https://github.com/ClaudiaRojasSoto/Markdown_Previewer.git
+> Clone this repository to your desired folder: https://github.com/ClaudiaRojasSoto/React_Redux_Calculator.git
 
 ### Install
 
@@ -171,7 +171,7 @@
 
 > Contributions, issues, and feature requests are welcome!
 
-> Feel free to check the [issues page](https://github.com/ClaudiaRojasSoto/Markdown_Previewer/issues).
+> Feel free to check the [issues page](https://github.com/ClaudiaRojasSoto/React_Redux_Calculator/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
